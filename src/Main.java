@@ -48,7 +48,7 @@ public class Main {
         } else if (age4 > 5 && age4 <= 14) {
             System.out.println("Можно кататься только с родителями");
         } else if (age4 > 14) {
-            System.out.println("Можно кататься одному");
+            System.out.println("Можно кататься одному!");
         }
 
         int one = 15;
